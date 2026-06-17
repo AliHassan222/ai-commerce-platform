@@ -1,0 +1,21 @@
+# Supabase local CLI temporary artifacts
+backend/supabase/.temp/
+backend/supabase/.branches/
+
+# Node / web build artifacts
+node_modules/
+.next/
+build/
+dist/
+coverage/
+
+# Flutter / Dart artifacts
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Environment and local secrets
+.env
+.env.*
+*.local
