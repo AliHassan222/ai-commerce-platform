@@ -8,6 +8,11 @@ node_modules/
 build/
 dist/
 coverage/
+.npm-cache/
+playwright-report/
+test-results/
+*.tsbuildinfo
+debug.log
 
 # Flutter / Dart artifacts
 .dart_tool/
